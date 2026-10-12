@@ -40,9 +40,9 @@ Remove background noise with **DeepFilterNet**, edit multi-clip videos, record v
 | ![Onboarding](assets/screenshots/onboarding.png) | ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/home.png) |
 | **Onboarding** | **Sign in** | **Home** |
 | ![Features](assets/screenshots/noise-reduction.png) | ![Processing](assets/screenshots/video-editor.png) | ![Import File](assets/screenshots/voice-over.png) |
-| **Noise Reduction** | **Video Editor** | **Voice-over** |
+| **Features** | **Processing** | **Import File** |
 | ![Usage](assets/screenshots/music-library.png) | ![Projects](assets/screenshots/projects.png) | ![Subscription](assets/screenshots/subscription.png) |
-| **Music Library** | **My Projects** | **Subscription** |
+| **Credit Usage** | **My Projects** | **Subscription** |
 
 
 

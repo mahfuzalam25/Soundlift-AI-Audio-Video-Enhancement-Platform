@@ -34,7 +34,6 @@ Remove background noise with **DeepFilterNet**, edit multi-clip videos, record v
 
 ## 📱 App Screens
 
-> Replace the image paths below with your poster files.
 
 | | | |
 |:---:|:---:|:---:|
@@ -45,7 +44,7 @@ Remove background noise with **DeepFilterNet**, edit multi-clip videos, record v
 | ![Usage](assets/screenshots/music-library.png) | ![Projects](assets/screenshots/projects.png) | ![Subscription](assets/screenshots/subscription.png) |
 | **Music Library** | **My Projects** | **Subscription** |
 
-*(Add or remove rows to match your posters, e.g. notifications, support, referrals, profile.)*
+
 
 ---
 
